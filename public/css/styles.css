@@ -1,0 +1,55 @@
+html {
+    background-color: #325288;
+    
+}
+
+body{
+    background-color:#325288;
+    
+}
+
+
+
+h1{
+    font-size: 3rem;
+}
+
+#slideContainer{
+    margin: 1% 1%;
+    
+    
+}
+
+.listDiv{
+    background-color:#F4EEE8;
+    max-width: 600px;
+    margin: auto;
+    
+
+}
+
+.postTask{
+    margin: 1% 1%;
+    
+}
+
+.postTask form{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0%;
+}
+
+.postTask textarea{
+    flex:1;
+    font-size: 1rem;
+    width: 100%;
+    padding: 1rem;
+}
+
+.postButton{
+    text-align: end;
+}
+
+.btn-close{
+    margin-right:  1rem;
+}
